@@ -1,7 +1,7 @@
 {
-  "version": "0.32.2",
+  "version": "0.32.3",
   "channel": "staging",
-  "download_url": "https://github.com/abrowne93/railspectra-capture-releases/releases/download/capture-staging-v0.32.2/RailSpectraClient-staging-Setup.exe",
+  "download_url": "https://github.com/abrowne93/railspectra-capture-releases/releases/download/capture-staging-v0.32.3/RailSpectraClient-staging-Setup.exe",
   "release_notes_url": "https://github.com/abrowne93/railspectra-capture-releases/blob/main/RELEASE_NOTES.md",
   "min_supported_version": "0.31.0"
 }
